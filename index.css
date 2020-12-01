@@ -1,1 +1,21 @@
 /* Put your style information here! */
+
+.intro {
+  background-color: black;
+}
+
+.intro h1 {
+  color: aliceblue;
+}
+
+h1 {
+  margin-bottom: 2rem;
+}
+
+img {
+  max-width: 800px;
+  border: 2px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px #aaaaaa;
+  margin-bottom: 2rem;
+}
